@@ -1,5 +1,5 @@
 package edu.ncsu.monopoly;
-//Eguneraketa irailak 25 bigarrena
+//Eguneraketa irailak 25 bigarrena V2
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
